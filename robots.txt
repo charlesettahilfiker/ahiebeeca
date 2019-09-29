@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiyoxohpu.radmen.info/sitemap.xml
